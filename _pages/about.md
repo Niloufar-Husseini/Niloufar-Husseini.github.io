@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mechanical Engineer</p>
+    <p>Biomechanics | Machine Learning</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Mechanical Engineer with a Master’s degree from Sharif University of Technology, specializing in applied design and biomechanics, and I am currently pursuing PhD opportunities in this field. My work lies at the intersection of computational biomechanics and data-driven modeling, where I develop machine learning approaches to better understand and predict human movement and musculoskeletal loads.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on integrating artificial neural networks with biomechanical simulations to estimate quantities such as spine loads, muscle forces, and ground reaction forces during complex activities. I am particularly interested in combining physics-based modeling with modern deep learning techniques to improve accuracy, efficiency, and real-world applicability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have experience in finite element analysis, musculoskeletal modeling, and deep learning frameworks such as PyTorch, and I enjoy working on interdisciplinary problems that bridge engineering, data science, and human health. My long-term goal is to contribute to the design of intelligent biomechanical systems and assistive technologies.
